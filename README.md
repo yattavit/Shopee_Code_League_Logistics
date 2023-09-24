@@ -1,7 +1,7 @@
 # Shopee_Code_League_Logistics
 
-View Notebook here: https://nbviewer.org/github/yattavit/Shopee_Code_League_Logistics/blob/main/Shopee%20Code%20League%20Logistics.ipynb
-
+View Notebook here: 
+[Notebook](https://nbviewer.org/github/yattavit/Shopee_Code_League_Logistics/blob/main/Shopee%20Code%20League%20Logistics.ipynb)
 
 # Background Information:
 
