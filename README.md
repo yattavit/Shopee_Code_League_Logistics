@@ -23,5 +23,3 @@ Main Task: Identify all the orders that are considered late depending on the Ser
   ![Q2](data/image/3.png)
  - Q3): What is the distribution of orders that were made cross-island?
   ![Q3](data/image/4.png)
-
-<img src="data/image/4.png" alt="Q3" width="800" height="200" />
