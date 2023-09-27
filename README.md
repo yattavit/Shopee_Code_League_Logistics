@@ -17,7 +17,7 @@ The consistent monitoring and process of holding our logistics providers account
 ## Task
 Main Task: Identify all the orders that are considered late depending on the Service Level Agreements (SLA) with Shopee's Logistics Provider.
 
-### In addition to the main task, below are some relevant visualizations that may be useful for answering the following business related questions
+### In addition to the main task, relevant visualizations were generated to answer the following business questions:
  - ### Q1): What is the distribution of orders that were considered to be late?
  ![Q1](data/image/1.png)
    - ### Q1a): Does the Type of delivery impact whether a delivery is more likely to be late or not?
