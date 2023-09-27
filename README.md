@@ -1,5 +1,5 @@
-
 # Shopee_Code_League_Logistics
+[Jupyter Notebook](https://github.com/yattavit/Shopee_Code_League_Logistics/blob/main/Shopee%20Code%20League_Logistics.ipynb)
 
 ## Background
 
