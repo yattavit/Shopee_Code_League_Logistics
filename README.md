@@ -1,3 +1,4 @@
+
 # Shopee_Code_League_Logistics
 
 ## Background
@@ -11,4 +12,14 @@ The performance of these providers is monitored regularly and each provider is h
 The consistent monitoring and process of holding our logistics providers accountable allows us to maintain our promise of timely deliveries to our buyers.
 
 ## Task
-Identify all the orders that are considered late depending on the Service Level Agreements (SLA) with Shopee's Logistics Provider.
+Main Task: Identify all the orders that are considered late depending on the Service Level Agreements (SLA) with Shopee's Logistics Provider.
+
+### In addition to the main task, below are some relevant visualizations that may be useful for answering the following business related questions
+ - Q1): What is the distribution of orders that were considered to be late?
+ ![Q1](data/image/1.png)
+    - Q1a): Does the Type of delivery impact whether a delivery is more likely to be late or not?
+  ![Q1a](data/image/2.png)
+ - Q2): What is the distribution of buyers by location?
+  ![Q2](data/image/3.png)
+ - Q3): What is the distribution of orders that were made cross-island?
+  ![Q3](data/image/4.png)
